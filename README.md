@@ -1,12 +1,15 @@
-ThoughtWorks  Algorithm test： MazeFactory
+ThoughtWorks  Algorithm test： MazeFactory<br> 
 ===================
-Language：python2.73
-How to use it：Open the ThoughtWorks.py file directly, run it
-Unit test:
-input:
+Language：python2.73<br> 
+How to use it：Open the ThoughtWorks.py file directly, run it<br> 
+Unit test:<br> 
+input:<br> 
+`"
 3 3
 0,1 0,2;0,0 1,0;0,1 1,1;0,2 1,2;1,0 1,1;1,1 1,2;1,1 2,1;1,2 2,2;2,0 2,1
-output:
+`"
+output:<br> 
+`"
 [W] [W] [W] [W] [W] [W] [W] 
 [W] [R] [W] [R] [R] [R] [W] 
 [W] [R] [W] [R] [W] [R] [W] 
@@ -14,27 +17,40 @@ output:
 [W] [W] [W] [R] [W] [R] [W] 
 [W] [R] [R] [R] [W] [R] [W] 
 [W] [W] [W] [W] [W] [W] [W] 
-
-input:
+`"
+input:<br> 
+`"
 3 3
 0,1 0,2;0,0 1,0;0,1 1,1;0,2 1,2;1,0 1,1;1,1 1,2;1,1 2,1
-output:
+`"
+output:<br> 
+`"
 Maze format error.
-
-input:
+`"
+input:<br> 
+`"
 3 a
 0,1 0,2;0,0 1,0;0,1 1,1;0,2 1,2;1,0 1,1;1,1 1,2;1,1 2,1
-output:
+`"
+output:<br> 
+`"
 Invalid number format.
-
-input:
+`"
+input:<br> 
+`"
 3 3
 0,1 0,2;0,0 1,0;0,1 1,1;0,2 1,2;1,0 1,1;1,1 1,2;1,1 2,1;1,5 2,2;2,0 2,5
-output:
+`"
+output:<br> 
+`"
 Number out of range.
-
-input:
+`"
+input:<br> 
+`"
 3 3
 0,1,0,2;0,0 1,0;0,1 1,1;0,2 1,2;1,0 1,1;1,1 1,2;1,1 2,1;1,0,2,2;2,0 2,1
-output:
+`"
+output:<br> 
+`"
 Incorrect command format
+`"
