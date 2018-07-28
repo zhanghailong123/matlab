@@ -2,7 +2,7 @@ ThoughtWorks  Algorithm test： MazeFactory
 ===================
 Language：python2.73<br> 
 How to use it：Open the ThoughtWorks.py file directly, run it<br> 
-Unit test:
+Unit test:<br> 
 -----------
 input:<br> 
 3 3<br> 
